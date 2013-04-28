@@ -11,6 +11,9 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
+           
+  <remote  name="sunny"
+           fetch="https://github.com/sunny2303-2303/" />
 
   <default revision="refs/heads/cm-10.1"
            remote="github"
