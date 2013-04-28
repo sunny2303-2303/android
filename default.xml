@@ -12,7 +12,7 @@
            fetch="ssh://git@github.com" />
            
   <remote  name="sunny"
-     fetch="https://github.com/sunny/" />
+     fetch="https://github.com/sunny2303-2303/" />
      
   <default revision="refs/heads/jellybean"
            remote="github"
