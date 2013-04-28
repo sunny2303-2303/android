@@ -10,7 +10,10 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
-
+           
+  <remote  name="sunny"
+     fetch="https://github.com/sunny/" />
+     
   <default revision="refs/heads/jellybean"
            remote="github"
            sync-c="true"
