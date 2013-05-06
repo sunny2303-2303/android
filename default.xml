@@ -20,7 +20,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="sunny/android_build">
+  <project path="build" name="sunny2303-2303/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -379,7 +379,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
-  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro" name="android-toolchain-eabi-linaro" remote="sunny" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro" name="sunny2303-2303/android-toolchain-eabi-linaro" remote="github" revision="master" />
   
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-10.1" />
   <project name="CyanogenMod/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="cm-10.1" />
