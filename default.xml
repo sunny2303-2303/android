@@ -24,7 +24,8 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="android" remote="sunny" /> 
+  <project path="android" name="android" remote="sunny" />
+  <project path="android_device_samsung_ja3g" name="android_device_samsung_ja3g" remote="sunny" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
